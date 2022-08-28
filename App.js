@@ -23,6 +23,7 @@ const icons = {
   Rain: "rains",
   Drizzle: "rain",
   Thunderstorm: "lightning",
+  Thunder: "lightning"
 };
 
 export default function App() {
